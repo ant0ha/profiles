@@ -40,6 +40,41 @@
     background-position: -23px -45px;
 }
 
+.ivan-iemchecnko {
+    background: url("../image/ivan_iemchenko.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.dima-slinko {
+    background: url("../image/dima_slinko.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.roman-kotlyarenko {
+    background: url("../image/roman_kotlyarenko.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 400px;
+}
+
+.roman-perevertajlo {
+    background: url("../image/roman_perevertajlo.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.victor-parahonya {
+    background: url("../image/victor_parahonya.jpg");
+    background-position: -100px center;
+    background-repeat: no-repeat;
+    background-size: 400px;
+}
+
 .xanrias {
     background: url("../image/xanrias.jpg");
 }
