@@ -47,6 +47,13 @@
     background-size: 100% 100%;
 }
 
+.vlad-vcherashniy {
+    background: url("../image/vlad_vcherashniy.png");
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
 .dima-slinko {
     background: url("../image/dima_slinko.jpg");
     background-position: center center;
